@@ -1,5 +1,5 @@
 #CSS-MOBILE-MENU
 
 ##TODO
-    *nov13
-    *create the mobile menu
+*nov13
+*create the mobile menu
